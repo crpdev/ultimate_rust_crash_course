@@ -8,7 +8,7 @@ Watching is fun, but you will learn a lot more if you dig in and do some coding!
 This repository is for you hands-on-learners who are ready to roll.
 
 I use macOS, and that is what I developed this course on.  Everything _ought_ to work similarly on major Linux
-distributions and Windows. Please [contact me](mailto:nathan.stocks@gmail.com) ASAP if you have trouble with anything on
+distributions and Windows. Please [contact me](mailto:crp@protonmail.com) ASAP if you have trouble with anything on
 this page.
 
 
@@ -35,7 +35,7 @@ cargo 1.42.0 (86334295e 2020-01-31)
 
 ## Prepare Your Development Environment
 
-Please do the following (see the [How To Learn Rust](https://github.com/CleanCut/ultimate_rust_crash_course/blob/master/HowToLearnRust.md)
+Please do the following (see the [How To Learn Rust](https://github.com/crpdev/ultimate_rust_crash_course/blob/master/HowToLearnRust.md)
 page for details on all of these)
 - [ ] Choose an IDE (or Editor) and configure it with Rust support and customize it to your liking
 - [ ] Choose one place to "find answers" and either introduce yourself (if it's a forum, IRC, etc.) or find the answer
@@ -77,21 +77,17 @@ communication tools to contact me, or [open an issue]. Either way. 😄
 
 For your convenience, here is a list of all the exercises, with links to view the code on GitHub.
 
-- [Exercise A - Variables & Scope](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/a-variables)
-- [Exercise B - Functions](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/b-functions)
-- [Exercise C - Simple Types](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/c-simple-types)
-- [Exercise D - Control Flow & Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/d-control-flow-strings)
-- [Exercise E - Ownership & References](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/e-ownership-references)
-- [Exercise F - Structs & Traits](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/f-structs-traits)
-- [Exercise G - Collections & Enums](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/g-collections-enums)
-- [Exercise H - Closures & Threads](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/h-closures-threads)
-- [Exercise Z - Final Project](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/z-final-project)
-
-# Projects
-
-- [Invaders](https://github.com/CleanCut/invaders) - A terminal-based Space Invaders arcade game clone.
+- [Exercise A - Variables & Scope](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/a-variables)
+- [Exercise B - Functions](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/b-functions)
+- [Exercise C - Simple Types](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/c-simple-types)
+- [Exercise D - Control Flow & Strings](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/d-control-flow-strings)
+- [Exercise E - Ownership & References](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/e-ownership-references)
+- [Exercise F - Structs & Traits](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/f-structs-traits)
+- [Exercise G - Collections & Enums](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/g-collections-enums)
+- [Exercise H - Closures & Threads](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/h-closures-threads)
+- [Exercise Z - Final Project](https://github.com/crpdev/ultimate_rust_crash_course/tree/master/exercise/z-final-project)
 
 
-[exercises]: https://github.com/CleanCut/ultimate_rust_crash_course#exercises
-[open an issue]: https://github.com/CleanCut/ultimate_rust_crash_course/issues/new
+[exercises]: https://github.com/crpdev/ultimate_rust_crash_course#exercises
+[open an issue]: https://github.com/crpdev/ultimate_rust_crash_course/issues/new
 [Ultimate Rust Crash Course]: https://agileperception.com/ultimate_rust_crash_course
